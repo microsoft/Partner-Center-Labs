@@ -11,7 +11,7 @@ Cloud solution providers achieve scale and profitability by automating managemen
 ## Available Labs
 
 ### [Azure Utilization](labs/HOL.AzureUtilization/README.md)
-Though this lab we will examine how to use the SDK to obtain Azure utilization records and combine them with rate card information.
+In this lab, we will examine how to use the SDK to obtain Azure utilization records and combine them with rate card information.
 
 # Contributing
 
